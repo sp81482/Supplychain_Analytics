@@ -6,5 +6,6 @@ data = {'Name': ['Tom', 'nick', 'krish', 'jack'],
 
 # Create DataFrame
 df = pd.DataFrame(data)
-
+#Print the dataframe#
 print(df)
+
